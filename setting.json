@@ -1,0 +1,8 @@
+{
+    "UPBIT_API" :
+    {
+        "ACCESS_KEY":"UPBIT ACCESS KEY",
+        "SECRET_KEY":"UPBIT SECRET KEY",
+        "SERVER_URL":"https://api.upbit.com"
+    }
+}
